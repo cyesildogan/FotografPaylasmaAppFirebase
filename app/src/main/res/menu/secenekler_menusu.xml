@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Profilim" android:id="@+id/profilim"></item>
+    <item android:title="Fotoğraf Paylaş" android:id="@+id/fotografPaylas"></item>
+    <item android:title="Cikis Yap" android:id="@+id/cikisYap"></item>
+</menu>
